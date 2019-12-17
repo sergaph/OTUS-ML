@@ -44,3 +44,7 @@ geckodriver.log
 *.iml
 
 .vscode/
+
+18_Analysis_Text_Data_part1/data
+19_Analysis_Text_Data_part2/data/reduced_comments_vk.csv
+19_Analysis_Text_Data_part2/full_bigrams.pkl
